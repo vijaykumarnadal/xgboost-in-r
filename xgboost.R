@@ -28,4 +28,6 @@ featureImp
 # Predict
 pred <- predict(xgMod, testData_xg)
 
-
+#to do things
+#tune parameters and use cross vaidation method
+#more params
